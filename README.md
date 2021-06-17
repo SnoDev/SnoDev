@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SnoDev
+- 👀 I’m interested in making Applications to help people and to make life a lot more easy.
+- 🌱 I’m currently learning Python
